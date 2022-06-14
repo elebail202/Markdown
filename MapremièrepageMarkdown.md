@@ -95,11 +95,11 @@ Pour renvoyer vers [un lien](https://www.google.com/) c'est simple
 
 Pour ajouter des images :
 
-![alt text](https://en.wikipedia.org/wiki/University_of_Oulu)
+![alt text](https://upload.wikimedia.org/wikipedia/en/a/a6/University_of_Oulu_logo.jpg)
 
 Ou bien des gifs *(pour plus de fun)*
 
-<img src="https://www.behance.net/gallery/55389655/gif-Collection-Two" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" />
 
 
 
