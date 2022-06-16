@@ -26,7 +26,7 @@
 
 <ins>*git commit*</ins> : opens a text editor where you can write a detailed commit message. Title of the commit (then ... to show that there are other things written) and then one empty line and you can continue writing. "write" and "exit".
 
-** IMPORTANT** : COMMIT MESSAGES : avoid "fixed a new line", "changed a new line" : Always use the `present` and not the past "fix","add" (when applied this commit will...blablabla : think this in my head) for the header line
+**IMPORTANT** : COMMIT MESSAGES : avoid "fixed a new line", "changed a new line" : Always use the `present` and not the past "fix","add" (when applied this commit will...blablabla : think this in my head) for the header line
 
 <ins>*git show <5 first characters of the first commit message>*</ins> : shows the entire commit message
 
