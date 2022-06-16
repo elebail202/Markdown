@@ -22,11 +22,9 @@
 
 <ins>*git commit -m*</ins> : commit the file 
 
-<ins>*git ci -m*</ins> : abreviation of commit / Is it really working on Windows ?
-
 <ins>*git commit*</ins> : opens a text editor where you can write a detailed commit message. Title of the commit (then ... to show that there are other things written) and then one empty line and you can continue writing. "write" and "exit".
 
-**IMPORTANT** : COMMIT MESSAGES : avoid "fixed a new line", "changed a new line" : Always use the `present` and not the past "fix","add" (when applied this commit will...blablabla : think this in my head) for the header line
+<ins>**IMPORTANT**</ins> : COMMIT MESSAGES : avoid "fixed a new line", "changed a new line" : Always use the `present` and not the past "fix","add" (when applied this commit will...blablabla : think this in my head) for the header line
 
 <ins>*git show <5 first characters of the first commit message>*</ins> : shows the entire commit message
 
@@ -42,7 +40,7 @@
 
 BRANCHES : possibility to create branches that can be merged with the main branches later
 
-![alt text]("branches.png")
+![alt text]("C:\Users\evele\Documents\Markdown\branches.png")
  
 <ins>*git branch*</ins> : shows the different branches in the repo
 
