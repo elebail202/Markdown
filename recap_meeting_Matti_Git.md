@@ -1,8 +1,8 @@
-## Meeting with Matti on how using Git
+# Meeting with Matti on how using Git
 
-### Usual commands on Git
+## Usual commands on Git
 
-#### BASICS
+### BASICS
 
 <ins>*git clone <URL>*</ins> : clone a repo on your local machine
 
@@ -36,9 +36,9 @@
 
 ---
 
-#### BRANCHES
+### BRANCHES
 
-BRANCHES : possibility to create branches that can be merged with the main branches later
+Possibility to create branches that can be merged with the main branch later
 
 ![alt text](branches.png "branches")
  
