@@ -40,7 +40,7 @@
 
 BRANCHES : possibility to create branches that can be merged with the main branches later
 
-![alt text]("C:\Users\evele\Documents\Markdown\branches.png")
+![alt text](branches.png "branches")
  
 <ins>*git branch*</ins> : shows the different branches in the repo
 
