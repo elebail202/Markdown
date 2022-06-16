@@ -42,7 +42,7 @@
 
 BRANCHES : possibility to create branches that can be merged with the main branches later
 
-![alt text](C:\Users\evele\OneDrive\Documents\TPS 2021-2022\Stage_2A\image.png)
+![alt text]("branches.jpg")
  
 *git branch* : shows the different branches in the repo
 
