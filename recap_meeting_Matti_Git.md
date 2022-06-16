@@ -26,10 +26,7 @@
 
 *git commit* : opens a text editor where you can write a detailed commit message. Title of the commit (then ... to show that there are other things written) and then one empty line and you can continue writing. "write" and "exit".
 
-
-<span style="color:red">some **This is Red Bold.** text</span>
-
-**[color=#26B260] IMPORTANT [/color]** : **COMMIT MESSAGES** : avoid "fixed a new line", "changed a new line" : Always use the `present` and not the past "fix","add" (when applied this commit will...blablabla : think this in my head) for the header line
+** IMPORTANT** : COMMIT MESSAGES : avoid "fixed a new line", "changed a new line" : Always use the `present` and not the past "fix","add" (when applied this commit will...blablabla : think this in my head) for the header line
 
 *git show <5 first characters of the first commit message>* : shows the entire commit message
 
@@ -45,7 +42,7 @@
 
 BRANCHES : possibility to create branches that can be merged with the main branches later
 
-![alt text]("branches.jpg")
+![alt text]("branches.png")
  
 *git branch* : shows the different branches in the repo
 
