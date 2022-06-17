@@ -1,28 +1,38 @@
 # Key-Terms to keep in mind
 
-- **<span style='color:#4682B4'>Markdown</span>**
+- ## **<span style='color:#4682B4'>Markdown</span>**
 
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
 To have more details on the way of coding, see the page [MapremièrepageMarkdown](https://github.com/elebail202/Markdown/blob/13e5c12f73a4aa0eec7db93008f602c7a65848f8/Mapremi%C3%A8repageMarkdown.md).
 
 
-- **<span style='color:#4682B4'>CSS</span>**
+- ## **<span style='color:#4682B4'>CSS</span>**
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.    
 
-- **<span style='color:#4682B4'>HTML</span>**
+- ## **<span style='color:#4682B4'>HTML</span>**
 
 The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items.
 
-- **<span style='color:#4682B4'>Git</span>**
+- ## **<span style='color:#4682B4'>Git</span>**
 
 Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 To know more about the usuals git commands, visit [UsualCommandsOnGit](https://github.com/elebail202/Markdown/blob/af2347e475d9927883e73df69aa3d13f58ff37d8/UsualCommandsOnGit.md)
 
-- **<span style='color:#4682B4'>Software requirements + requirements engineering + requirements ellicitation</span>**
+- ## **<span style='color:#4682B4'>Software requirements + requirements engineering + requirements elicitation</span>**
+
+<div align="center"><span style='color:#00bfff'>WHAT IS SOFTWARE REQUIREMENTS ?</span></div>
+
+The software requirements are `description of features and functionalities of the target system`. Requirements convey the expectations of users from the software product. The requirements can be obvious or hidden, known or unknown, expected or unexpected from client’s point of view.
 
 
-<div align="center"><span style='color:#3355ff'>WHAT IS REQUIREMENTS ENGINEERING ?</span></div>
+<div align="center"><span style='color:#00bfff'>WHAT IS REQUIREMENTS ELICITATION ?</span></div>
+
+Requirements elicitation is the practice of `researching and discovering the requirements of a system` from users, customers, and other stakeholders. Requirements elicitation practices include interviews, questionnaires, user observation, workshops, brainstorming, use cases, role playing and prototyping.
+Requirements elicitation is a part of the requirements engineering process, usually followed by analysis and specification of the requirements.
+
+
+<div align="center"><span style='color:#00bfff'>WHAT IS REQUIREMENTS ENGINEERING ?</span></div>
 
 --- 
 
@@ -118,12 +128,3 @@ There is **no ‘one way’** to do RE. Many different possible processes for bu
 -	How might a software system help ?
 -	When does it need solving ?
 -	What might prevent us from solving it ?
-
-
-
-
-
-
-
-
-Look into writing text in a Markdown files, using HTML tags in them, and tracking those files in a Git repository.
