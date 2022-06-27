@@ -24,11 +24,7 @@ It is easier to distinguish a healthy knee than a osteoarthritis knee.
 DATA *(dicom)* -> Open data, create database -> Preprocessing *(change contrast, correct artifacts, exclude images)* -> Annotation *(cartilage segmentation)* -> Analysis *(creation of maps)* -> Results. And then corrections if needed.
 
 
-<<<<<<< HEAD
 ### MRI mapper *(Evelina)*
-=======
-## MRI mapper *(Evelina)*
->>>>>>> 273aedcf9dc9fb2bc96b1db53ebe4b88e78ad55a
 
 Custom matlab script for each study. Make sure same phenoma cam be applied.  
 MRI have quite poor resolution. Images were selected manually, manually save each region. Click on each pixel and draw all the regions separately. It was too long with the calculations and all...  
@@ -49,30 +45,18 @@ Problems with Mokkula :
 - Developing it with Matlab, userinterface was the most painful task
 - How to fix T1 mapping which is inverted
 
-<<<<<<< HEAD
 ### Some datas *(Ian, repu tcheque)*
-=======
-## Some datas *(Ian, repu tcheque)*
->>>>>>> 273aedcf9dc9fb2bc96b1db53ebe4b88e78ad55a
 
 1.5T data.  
 **Undo button would be nice !!!**
 
-<<<<<<< HEAD
 ### *(Eetu)*
-=======
-## *(Eetu)*
->>>>>>> 273aedcf9dc9fb2bc96b1db53ebe4b88e78ad55a
 
 3T data.  
 Showed worst data he had to manage with, difficult to decide where the surface of cartilage is. Hard to determine precisely.  
 Motion on the images which can be corrected.
 
-<<<<<<< HEAD
 ### *(vilkanto)*
-=======
-## *(vilkanto)*
->>>>>>> 273aedcf9dc9fb2bc96b1db53ebe4b88e78ad55a
 
 3T data.  
 Relaxation parameters in cartilage. Different results depending on the angle the sample is placed.  
@@ -83,7 +67,6 @@ Focus on a small rectangular region of cartilage instead of a whole segmentation
 
 Mokkula has a dedicated segmentation for knees. Aedes is used for little segmentations when you want to focus on a little region (pixel by pixel). When you want to segmentate the whole knee, too long and complicated.
 
-<<<<<<< HEAD
 
 
 ## Problems with Mokkula
@@ -99,5 +82,3 @@ Mokkula has a dedicated segmentation for knees. Aedes is used for little segment
 - Difficulties on separate the different areas, surfaces between the regions. (But not a problem of Mokkula right ?)
 
 - Correct the motion of the images. (Didn't understand if this functionality is well working or not)
-=======
->>>>>>> 273aedcf9dc9fb2bc96b1db53ebe4b88e78ad55a
