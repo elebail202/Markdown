@@ -1,5 +1,21 @@
 # WORKSHOP
 
+
+## Problems with Mokkula (recap)
+
+- It was difficult to identify the files because their names were different depending on the client. Had to work on the file structure.
+
+- Creating the userinterface with Matlab was one of the most painful task
+
+- Difficulties with fixing T1 mapping which is inverted.
+
+- Necessity of having an undo button on the interface !!
+
+- Difficulties on separate the different areas, surfaces between the regions. (But not a problem of Mokkula right ?)
+
+- Correct the motion of the images. (Didn't understand if this functionality is well working or not)
+
+
 ## MR IMAGING OF ARTICULAR CARTILAGE *(quantitative analysis)*
 
 Different structure/composition of the tissue. The content is different, water content decrease in the deep of the cartilage.
@@ -56,7 +72,7 @@ Problems with Mokkula :
 Showed worst data he had to manage with, difficult to decide where the surface of cartilage is. Hard to determine precisely.  
 Motion on the images which can be corrected.
 
-### *(vilkanto)*
+### *(Vilkanto)*
 
 3T data.  
 Relaxation parameters in cartilage. Different results depending on the angle the sample is placed.  
@@ -67,18 +83,3 @@ Focus on a small rectangular region of cartilage instead of a whole segmentation
 
 Mokkula has a dedicated segmentation for knees. Aedes is used for little segmentations when you want to focus on a little region (pixel by pixel). When you want to segmentate the whole knee, too long and complicated.
 
-
-
-## Problems with Mokkula
-
-- It was difficult to identify the files because their names were different depending on the client. Had to work on the file structure.
-
-- Creating the userinterface with Matlab was one of the most painful task
-
-- Difficulties with fixing T1 mapping which is inverted.
-
-- Necessity of having an undo button on the interface !!
-
-- Difficulties on separate the different areas, surfaces between the regions. (But not a problem of Mokkula right ?)
-
-- Correct the motion of the images. (Didn't understand if this functionality is well working or not)
